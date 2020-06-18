@@ -1,6 +1,6 @@
 # Bulding with Active Record
 
-The objective of this project was to put our knowledge of aactive record, models and associations to the test, by building an application similiar to Reddit calling it Micro-Reddit. User would have the ablitiy to create a post and add comments to it.
+In this project we performed some data models and put our knowledge of active records into practice by building a lightweight Reddit clone. We build the necessary data structures to support creating users, posts and sending comments. Playing around with models using the rails console.
 
 ## :package: Built With
 
